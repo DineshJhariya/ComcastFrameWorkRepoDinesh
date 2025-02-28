@@ -7,8 +7,7 @@ public class A {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ChromeDriver driver = new ChromeDriver();
-		driver.get(
-				"https://github.com/DineshJhariya/DemoFramework/blob/master/DemoFramework/src/test/java/OrganizationTerst/ToCreateOrgTest.java");
-	}
+		driver.get("https://github.com/DineshJhariya/ComcastFrameWorkRepoDinesh/compare/main");
 
+}
 }
